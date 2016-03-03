@@ -37,7 +37,7 @@ Luckily, it is easy to measure someone's height, as well as their income (and a 
 
 You can load the latest cross-section of NLS data, collected in 2013 with the code below. 
 
-```{r echo = FALSE}
+```{r}
 heights <- readRDS("data/heights.RDS")
 ```
 
